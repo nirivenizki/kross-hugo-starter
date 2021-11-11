@@ -1,9 +1,8 @@
 +++
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/unnamed.jpg"
 title = "test"
 
 +++
-test
+test![](/images/unnamed.jpg)
