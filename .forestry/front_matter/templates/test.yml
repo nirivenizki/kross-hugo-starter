@@ -8,7 +8,7 @@ fields:
   fields:
   - type: text
     name: title
-    label: title
+    label: Nirs Website
 - type: field_group
   name: about
   label: about
